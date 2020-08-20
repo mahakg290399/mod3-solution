@@ -1,1 +1,40 @@
-h1
+* {
+    box-sizing: border-box;
+    
+}
+body{ 
+background-color: antiquewhite;
+}
+.navbar-header{
+    background-color: antiquewhite;
+}
+.navbar-brand {
+    font-size: 3em;    margin: 0 10 0;
+}
+div {
+    padding-top: 10px;    background-color: salmon;    text-align: justify;
+    }
+div section{
+    width: 150px;    padding: auto;    margin: auto;    background-color: beige;    text-align: center;
+    font-size: 2em;  margin-bottom: .2em;
+}
+a {
+    font-size: large;
+}
+li a:hover {
+      font-family: cursive;   font-size: 2em;
+}
+a:active{   background-color: black;
+}
+.navbar-nav{
+    background-color: beige;
+}
+p {
+    background-color: wheat; padding: 10px;
+}
+navbar-toggle{
+    color: aqua;
+}
+nav navbar-nav{
+    
+}
